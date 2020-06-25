@@ -1,0 +1,21 @@
+* {
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+#sideMenu{
+    background-color: teal;
+}
+
+.topIcon{
+    height: 25px;
+}
+
+#navbarName{
+    color: #4044DF;
+    font-size: x-large;
+}
+
+.topBar > li{
+    padding-left: 5px;
+    padding-right: 5px;
+}
