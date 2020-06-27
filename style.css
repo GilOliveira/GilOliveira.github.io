@@ -10,9 +10,8 @@
     height: 25px;
 }
 
-#navbarName{
+.navbar-light .navbar-brand {
     color: #4044DF;
-    font-size: x-large;
 }
 
 .topBar > li{
