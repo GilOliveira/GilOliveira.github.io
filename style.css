@@ -1,3 +1,8 @@
+/*
+Gil Oliveira personal website styles file
+(C) 2020 Gil Oliveira. All rights reserved.
+ */
+
 * {
     font-family: 'Lexend Deca', sans-serif;
 }
@@ -30,4 +35,9 @@
     height: 60px;
     line-height: 60px;
     background-color: #f5f5f5;
+}
+
+.socialIcons {
+    color: #4044DF;
+    font-size: 1.75rem;
 }

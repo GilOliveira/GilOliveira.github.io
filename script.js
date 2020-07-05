@@ -2,5 +2,5 @@
 
 $(document).ready(function(){
     $('#header').load('header.html');
-    console.log('hello')
+    $('#footer').load('footer.html');
 });
