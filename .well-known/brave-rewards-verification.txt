@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: giloliveira.net
+Token: 1f0815ab65b4d04523b9f13e3b8f3e2f64d1a3cbd5673dcdd94250bfea7b1221
